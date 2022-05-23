@@ -1,3 +1,9 @@
+def årgang():
+    aar=input('Angi årgang for filene:' )
+    aar_1t = str(int(aar) - 1)
+    aar_t1 = str(int(aar) + 1)
+    return(print("Du lager nå filer for " + aar))
+
 def kontroll_merge(tabell1, tabell2):
     return(tabell1.merge(tabell2,indicator = True, how='left').loc[lambda x : x['_merge']!='both'])
 
