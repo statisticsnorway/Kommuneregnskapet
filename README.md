@@ -1,15 +1,15 @@
 # Kommuneregnskapet
 
-## Omkoding av regnskapet
-
-Denne branshen inneholder regnskapsflyten omkodet til python. 
 Table of Contents
 =================
 
-* [Kommuneregnskapet](#kommuneregnskapet)
-   * [Omkoding av regnskapet](#omkoding-av-regnskapet)
-      * [Bevilgnings- og balanseregnskapet](#bevilgnings--og-balanseregnskapet)
-      * [Publiseringsløpet](#publiseringsløpet)
+* [Omkoding av regnskapet](#omkoding-av-regnskapet)
+  * [Bevilgnings- og balanseregnskapet](#bevilgnings--og-balanseregnskapet)
+  * [Publiseringsløpet](#publiseringsløpet)
+
+## Omkoding av regnskapet
+
+Denne branshen inneholder regnskapsflyten omkodet til python. 
 
 ### Bevilgnings- og balanseregnskapet
 
