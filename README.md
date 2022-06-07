@@ -3,7 +3,13 @@
 ## Omkoding av regnskapet
 
 Denne branshen inneholder regnskapsflyten omkodet til python. 
-Relevante mapper og rekkefølge:
+Table of Contents
+=================
+
+* [Kommuneregnskapet](#kommuneregnskapet)
+   * [Omkoding av regnskapet](#omkoding-av-regnskapet)
+      * [Bevilgnings- og balanseregnskapet](#bevilgnings--og-balanseregnskapet)
+      * [Publiseringsløpet](#publiseringsløpet)
 
 ### Bevilgnings- og balanseregnskapet
 
