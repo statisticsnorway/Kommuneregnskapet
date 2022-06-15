@@ -1,6 +1,6 @@
 # Kommuneregnskapet
 
-Table of Contents
+Innholdsfortegnelse
 =================
 
 * [Omkoding av regnskapet](#omkoding-av-regnskapet)
@@ -14,7 +14,7 @@ Table of Contents
 Denne branshen inneholder regnskapsflyten omkodet til python. 
 
 ### Regnskapsflyten_V2
-    - En ny og forbedret versjon
+   - En ny og forbedret versjon
 
 ### Regnskapsflyten
 
