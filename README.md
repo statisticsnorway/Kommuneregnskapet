@@ -4,14 +4,21 @@ Table of Contents
 =================
 
 * [Omkoding av regnskapet](#omkoding-av-regnskapet)
-  * [Bevilgnings- og balanseregnskapet](#bevilgnings--og-balanseregnskapet)
-  * [Publiseringsløpet](#publiseringsløpet)
+  * [Regnskapsflyten_V2](#Regnskapsflyten_V2)
+  * [Regnskapsflyten](#Regnskapsflyten)    
+    * [Bevilgnings- og balanseregnskapet](#bevilgnings--og-balanseregnskapet)
+    * [Publiseringsløpet](#publiseringsløpet)
 
 ## Omkoding av regnskapet
 
 Denne branshen inneholder regnskapsflyten omkodet til python. 
 
-### Bevilgnings- og balanseregnskapet
+### Regnskapsflyten_V2
+    - En ny og forbedret versjon
+
+### Regnskapsflyten
+
+#### Bevilgnings- og balanseregnskapet
 
   - Disse mappene inneholder flyten for bevilgning og balanse hver for seg. 
   1. Henting av nødvenig data fra Klass
@@ -28,7 +35,7 @@ Denne branshen inneholder regnskapsflyten omkodet til python.
   - Filene ligger : /ssb/stamme03/komakro/pilot_python/*
   - Program for å lese filene til overnevnte sti ligger under Kommuneregnskapet->Regnskapsflyten->2021->Bevilgningsregnskapet->1.Hierarkifilene
 
-### Publiseringsløpet
+#### Publiseringsløpet
 
   - Denne mappen skal inneholde publiseringstabellene. 
   - Per notebook ligger hele løpet fra KostraRegnskaps-funksjonene til ferdige publiseringstabeller
